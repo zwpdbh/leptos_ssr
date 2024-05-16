@@ -28,3 +28,9 @@
 - [ResponseOptions](https://book.leptos.dev/server/27_response.html#responseoptions) is provided as context.
 
 ## Progressive enhancement and graceful degradation
+
+- What is the differences between `<ActionForm/>` and `<Form/>` ?
+  - It is just a `<form>` fires a `submit` event.
+  - It is a progressive enhancement on `<Form/>`
+- How to create `<ActionForm/>`? 
+  - See: [4 steps to create ActionForm](https://book.leptos.dev/progressive_enhancement/action_form.html#actionform)
